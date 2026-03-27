@@ -39,20 +39,19 @@ It allows users to track income, expenses, and balance with a clean dashboard an
 <h2>📸 Application Screenshots</h2>
 
 <h3>🔐 Login Page</h3>
-![Screenshot](https://github.com/Lakshpri/FinanceFlow/blob/main/signin.png)
+<img src="https://raw.githubusercontent.com/Lakshpri/FinanceFlow/main/signin.png" width="100%" />
 
 <h3>📊 Dashboard</h3>
-<img src="https://chat.openai.com/c/cc1ff49f-e4e5-4388-add8-25c4e07048f5" width="100%" />
+<img src="https://raw.githubusercontent.com/Lakshpri/FinanceFlow/main/transaction.png" width="100%" />
 
 <h3>➕ Add Transaction</h3>
-<img src="https://chat.openai.com/c/931abab5-cb47-4d08-a480-262f5184b69d" width="100%" />
+<img src="https://raw.githubusercontent.com/Lakshpri/FinanceFlow/main/transaction2.png" width="100%" />
 
 <h3>📋 Transaction History</h3>
-<img src="https://chat.openai.com/c/b53457b2-3d0e-4128-a54b-3b8d9068f181" width="100%" />
-
-<hr>
+<img src="https://raw.githubusercontent.com/Lakshpri/FinanceFlow/main/transaction_history.png" width="100%" />
 
 <h2>🧠 Angular Concepts Implemented</h2>
+</hr>
 
 <ul>
   <li>Component-based architecture</li>
