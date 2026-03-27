@@ -39,7 +39,7 @@ It allows users to track income, expenses, and balance with a clean dashboard an
 <h2>📸 Application Screenshots</h2>
 
 <h3>🔐 Login Page</h3>
-<img src="https://image2url.com/r2/default/images/1774597462453-22a981a6-fcb1-49b9-ab1c-7bd70cc17766.png" alt="image" />
+![Screenshot](https://github.com/Lakshpri/FinanceFlow/blob/main/signin.png)
 
 <h3>📊 Dashboard</h3>
 <img src="https://chat.openai.com/c/cc1ff49f-e4e5-4388-add8-25c4e07048f5" width="100%" />
