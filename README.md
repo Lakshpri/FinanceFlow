@@ -4,9 +4,6 @@
 A modern, responsive Financial Tracker web application built using Angular with localStorage-based persistence and clean architecture.
 </p>
 
-<p align="center">
-Live Demo: <a href="https://keen-sprinkles-538734.netlify.app">View Application</a>
-</p>
 
 <hr>
 
